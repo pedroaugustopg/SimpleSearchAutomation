@@ -99,10 +99,3 @@ SimpleSearchAutomation
 2. Abra o projeto no IntelliJ IDEA.
 3. Aguarde o Maven realizar o download das dependências.
 4. Execute a classe `SearchTest` como teste JUnit.
-
----
-
-## Objetivo
-
-Este projeto foi desenvolvido com fins de prática em automação de testes de interface, aplicando conceitos fundamentais de QA, Selenium WebDriver e JUnit 
-em um cenário simples de validação funcional.
